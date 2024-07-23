@@ -3,8 +3,8 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {Ciência da Computação} na {Estácio Recife}.
-- 🌱 Aprendendo mais sobre {JavaScript}.
+- 🎓 Estudando Ciência da Computação na Estácio Recife.
+- 🌱 Aprendendo mais sobre JavaScript.
 
 ## Minhas Skills
 
@@ -18,7 +18,6 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 <br/>
 
