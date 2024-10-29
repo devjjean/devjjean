@@ -1,10 +1,10 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?devjjean=iuricode&color=006bed)
 
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Ciência da Computação na Estácio Recife.
-- 🌱 Aprendendo mais sobre JavaScript.
+- 🌱 Aprendendo mais sobre Python, Java e JavaScript.
 
 ## Minhas Skills
 
