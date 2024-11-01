@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Ciência da Computação na Estácio Recife.
-- 🌱 Aprendendo mais sobre Python, Java e JavaScript.
+- 🌱 Aprendendo mais sobre React e Bootstrap.
 
 ## Minhas Skills
 
