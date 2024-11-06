@@ -4,13 +4,13 @@
 
 Olá, sou **Jean Sousa**! 👋
 
-- 🤔 Apaixonado por **desenvolvimento Frontend** e por criar experiências de usuário incríveis.
+- 🤔 Atuando no **desenvolvimento web**, criando interfaces e soluções interativas.
 - 🎓 Estudante de **Ciência da Computação** na **Estácio Recife**.
-- 🌱 Atualmente aprimorando minhas habilidades em **React**, **Bootstrap** e **JavaScript**.
+- 🌱 Aprimorando habilidades em **React**, **Bootstrap**, e **JavaScript**.
 
 ## Minhas Skills
 
-**Tecnologias de Frontend**
+**Tecnologias de Desenvolvimento Web**
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -34,4 +34,3 @@ Olá, sou **Jean Sousa**! 👋
 - [LinkedIn](https://www.linkedin.com/in/jean-sousa-de-almeida-b43b63257/)
 - [Email](mailto:jjeanssousa16@gmail.com)
 - [GitHub](https://github.com/devjjean) (meu portfólio de código)
-
