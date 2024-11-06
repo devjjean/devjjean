@@ -2,22 +2,26 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Ciência da Computação na Estácio Recife.
-- 🌱 Aprendendo mais sobre React e Bootstrap.
+Olá, sou **Jean Sousa**! 👋
+
+- 🤔 Apaixonado por **desenvolvimento Frontend** e por criar experiências de usuário incríveis.
+- 🎓 Estudante de **Ciência da Computação** na **Estácio Recife**.
+- 🌱 Atualmente aprimorando minhas habilidades em **React**, **Bootstrap** e **JavaScript**.
 
 ## Minhas Skills
 
-**Aplicações e dados**
+**Tecnologias de Frontend**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+- ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 
-**Ferramentas de desenvolvimento**
+**Ferramentas de Desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 <br/>
 
@@ -27,6 +31,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-sousa-de-almeida-b43b63257/)](https://www.linkedin.com/in/jean-sousa-de-almeida-b43b63257/)
-[![Gmail Badge](https://img.shields.io/badge/-jjeanssousa16@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjeanssousa16@gmail.com)](mailto:jjeanssousa16@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/devjjean?label=follow&style=social)](https://github.com/devjjean)
+- [LinkedIn](https://www.linkedin.com/in/jean-sousa-de-almeida-b43b63257/)
+- [Email](mailto:jjeanssousa16@gmail.com)
+- [GitHub](https://github.com/devjjean) (meu portfólio de código)
+
