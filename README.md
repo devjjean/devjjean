@@ -1,7 +1,9 @@
 # Hello, World!
 
 🔭 Atualmente, estou trabalhando na criação de um **Chatbot utilizando Python**.
+
 🌱 Estou aprendendo mais sobre **Python e Java**.
+
 📫 Como me encontrar: **[Linkedin](https://www.linkedin.com/in/jean-sousa-de-almeida-b43b63257/)**.
 
 ## Sobre mim
