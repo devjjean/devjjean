@@ -2,7 +2,7 @@
 
 🔭 Atualmente, estou trabalhando na criação de um **Chatbot utilizando Python**.
 
-🌱 Estou aprendendo mais sobre **Python e Java**.
+🌱 Estou aprendendo mais sobre **Python**.
 
 📫 Como me encontrar: **[Linkedin](https://www.linkedin.com/in/jean-sousa-de-almeida-b43b63257/)**.
 
@@ -13,7 +13,6 @@ Eu sou um desenvolvedor de software muito curioso e focado em aprender sobre mai
 Aqui estão alguns dos meus projetos principais:
 
 - **[Petworld](https://github.com/devjjean/dog-landing)**.
-- **[Salyvor](https://github.com/devjjean/Salyvor)**.
 - **[Cadastro de Notas de Alunos](https://github.com/devjjean/cadastro-notas-alunos)**.
 
 ## Habilidades
