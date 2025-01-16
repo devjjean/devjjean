@@ -16,9 +16,8 @@ Aqui estão alguns dos meus projetos principais:
 - **[Cadastro de Notas de Alunos](https://github.com/devjjean/cadastro-notas-alunos)**.
 
 ## Habilidades
-- **Linguagens de Programação:** JavaScript, Python e Java
-- **Desenvolvimento Web:** HTML e CSS
-- **Ferramentas e Tecnologias:** Git, Docker, SQL
+- **Linguagens:** HTML, CSS, JavaScript, Python e MySQL
+- **Ferramentas:** Git e SQL
 - **Metodologias Ágeis:** Kanban
 
 ## Certificações
@@ -26,4 +25,4 @@ Aqui estão alguns dos meus projetos principais:
 
 ## Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/jean-sousa-de-almeida-b43b63257/)
-- [Portfolio](https://jjeansousa-portfolio.vercel.app/)
+- [Portfolio](https://devjjean.vercel.app/)
