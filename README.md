@@ -1,7 +1,18 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+Olá! Me chamo **Jean Sousa** 👋  
+Sou estudante de **Ciência da Computação** e desenvolvedor **Back-End**.  
+Minha stack principal é **Java**.
 
-### Olá, meu nome é {Jean Sousa}!
+Atualmente estou focado na linguagem **Java** onde venho desenvolvendo projetos acadêmicos e pessoais para aprender melhor na prática, assim evoluindo minhas habilidades e conquistar uma **oportunidade de estágio na área.**
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+🦄 **Linguagens:**  
+Java
 
-<p>Estudante de {Ciência da Computação}<br/> Sou desenvolvedor {Back-end}</p>
+💼 **Ferramentas:**  
+Spring Boot, Git, GitHub, MySQL, VsCode
+ 
+Fique à vontade para entrar em contato comigo pelo **LinkedIn** ou **email**
+<p align="left">
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devjjean/" alt="LinkedIn"/></a>
+  <h2>jjeanssousa16@gmail.com</h2>
+</p>
