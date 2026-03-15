@@ -1,4 +1,5 @@
-e explorando o ecossistema Spring.
+[Jean Sousa de Almeida]
+Estudante de Ciência da Computação, atualmente focado em desenvolvimento backend com Java e explorando o ecossistema Spring.
 
 Sobre
 💻 Estudando Java, Spring Boot e PostgreSQL
