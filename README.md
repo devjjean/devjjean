@@ -1,18 +1,24 @@
-Olá! Me chamo **Jean Sousa** 👋  
-Sou estudante de **Ciência da Computação** e desenvolvedor **Back-End**.  
-Minha stack principal é **Java**.
+e explorando o ecossistema Spring.
 
-Atualmente estou focado na linguagem **Java** onde venho desenvolvendo projetos acadêmicos e pessoais para aprender melhor na prática, assim evoluindo minhas habilidades e conquistar uma **oportunidade de estágio na área.**
+Sobre
+💻 Estudando Java, Spring Boot e PostgreSQL
 
-🦄 **Linguagens:**  
-Java
+🌱 Aprendendo React para completar o stack full stack
 
-💼 **Ferramentas:**  
-Spring Boot, Git, GitHub, MySQL, VsCode
- 
-Fique à vontade para entrar em contato comigo pelo **LinkedIn** ou **email**
-<p align="left">
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devjjean/" alt="LinkedIn"/></a>
-  <h2>jjeanssousa16@gmail.com</h2>
-</p>
+📚 Sempre buscando escrever código limpo e bem estruturado
+
+Tecnologias
+Back-end
+Java • Spring Boot • PostgreSQL • REST APIs
+
+Front-end
+React • JavaScript • HTML • CSS
+
+Ferramentas
+Git • Docker • Maven • Postman
+
+
+Contato
+https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white
+https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white
